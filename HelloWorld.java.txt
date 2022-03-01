@@ -7,5 +7,6 @@ String c="khaled";
 String d="khaja";
 
 String e="javed";
+int z=10;
 }
 }
